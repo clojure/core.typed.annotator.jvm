@@ -4,6 +4,13 @@
 
 Automatic annotator for Typed Clojure and clojure.spec annotations, for JVM Clojure.
 
+## DEPRECATION NOTICE
+
+This repository is DEPRECATED and development has been moved
+to the [core.typed](https://github.com/clojure/core.typed) monorepo.
+Please follow [these](https://github.com/clojure/core.typed/blob/master/UPGRADING.md#upgrading-from-07x-to-monorepo)
+to upgrade.
+
 ## Releases and Dependency Information
 
 Latest stable release is 0.7.0.
